@@ -1,23 +1,30 @@
 <scheme name="Cobalt2-jimueller" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-02-03T23:21:24</property>
+    <property name="created">2018-02-04T13:14:44</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-02-03T23:21:38</property>
+    <property name="modified">2018-02-04T13:15:01</property>
     <property name="originalScheme">Cobalt2-jimueller</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Operator Mono SSm Medium" />
   <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Fira Code Medium" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
+    <option name="ADDED_LINES_COLOR" value="3c9f4a" />
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="1f4662" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="2240" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="122738" />
+    <option name="DELETED_LINES_COLOR" value="a22929" />
     <option name="GUTTER_BACKGROUND" value="122636" />
     <option name="INDENT_GUIDE" value="25425c" />
     <option name="LINE_NUMBERS_COLOR" value="aaaaaa" />
+    <option name="MODIFIED_LINES_COLOR" value="26506d" />
     <option name="SELECTED_INDENT_GUIDE" value="25425c" />
     <option name="SELECTION_BACKGROUND" value="50a4" />
     <option name="WHITESPACES" value="25425c" />
@@ -270,11 +277,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="CONSOLE_BLACK_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="0" />
-      </value>
-    </option>
+    <option name="CONSOLE_BLACK_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="88ff" />
@@ -736,7 +739,7 @@
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="2f632f" />
+        <option name="BACKGROUND" value="3b9c46" />
         <option name="ERROR_STRIPE_COLOR" value="99ff99" />
       </value>
     </option>
@@ -812,11 +815,10 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="3c3d3c" />
-        <option name="BACKGROUND" value="101010" />
+        <option name="FOREGROUND" value="e1efff" />
+        <option name="BACKGROUND" value="193549" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="3c3d3c" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="88ff" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -1965,45 +1967,9 @@
         <option name="FOREGROUND" value="9effff" />
       </value>
     </option>
-    <option name="YAML_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="88ff" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="YAML_SCALAR_DSTRING">
-      <value>
-        <option name="FOREGROUND" value="3ad900" />
-      </value>
-    </option>
     <option name="YAML_SCALAR_KEY">
       <value>
-        <option name="FOREGROUND" value="ffdd00" />
-      </value>
-    </option>
-    <option name="YAML_SCALAR_LIST">
-      <value>
-        <option name="FOREGROUND" value="3ad900" />
-      </value>
-    </option>
-    <option name="YAML_SCALAR_STRING">
-      <value>
-        <option name="FOREGROUND" value="3ad900" />
-      </value>
-    </option>
-    <option name="YAML_SCALAR_VALUE">
-      <value>
-        <option name="FOREGROUND" value="3ad900" />
-      </value>
-    </option>
-    <option name="YAML_SIGN">
-      <value>
-        <option name="FOREGROUND" value="ff9d00" />
-      </value>
-    </option>
-    <option name="YAML_TEXT">
-      <value>
-        <option name="FOREGROUND" value="3ad900" />
+        <option name="FOREGROUND" value="ffc600" />
       </value>
     </option>
   </attributes>
